@@ -80,3 +80,36 @@ text-decoration: none;
   color:white;
   background: var(--primary-color);
 }
+
+#contact-heading{
+  color: var(--tertiary-color);
+}
+
+#contact-icon{
+  color: var(--tertiary-color);
+}
+
+.email-link {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 28px;
+  text-decoration: none;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+  color: var(--tertiary-color)
+}
+
+.reach-me{
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.reach-me:hover{
+color: var(--tertiary-color);
+text-decoration: underline;
+}
