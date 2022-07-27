@@ -63,3 +63,20 @@ text-decoration: none;
   color: white;
 
 }
+
+.social-links a{
+  color: var(--primary-color);
+  font-size: 18px;
+  text-decoration: none;
+  background: var(--tertiary-color) ;
+  padding: 10px 14px;
+  border-radius: 50%;
+  margin: 0 20px;
+  transition: all 100ms ease-in-out;
+  
+}
+
+.social-links a:hover{
+  color:white;
+  background: var(--primary-color);
+}
