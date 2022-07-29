@@ -1,7 +1,6 @@
 :root {
   --primary-color:  #F58981;
   --secondary-color: #e55d19 ;
-  --teriary-color: #FD8F52;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -30,6 +29,7 @@ p {
   text-align: center;
   font-weight: normal;
 }
+
 
 
 .hero{
